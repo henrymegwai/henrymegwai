@@ -16,21 +16,21 @@
  </a>
 </p>
 
-`I’m a Senior Backend Engineer with a deep interest in solving real-world problems using technology.`
+> I’m a Senior Backend Engineer with a deep interest in solving real-world problems using technology.
 
-`Passionate about the design and development of highly scalable distributed solutions, with operational excellence, reliability, security, optimal performance, and cost-effectiveness.`
+> Passionate about the design and development of highly scalable distributed solutions, with operational excellence, reliability, security, optimal performance, and cost-effectiveness.
 
-`A proficient problem-solver and focused learner, constantly applying the best software techniques in order to provide high-quality products.`
+> A proficient problem-solver and focused learner, constantly applying the best software techniques in order to provide high-quality products.
 
-`Programming Skills: C#, Javascript, Typescript, .Net, .Net Core, Node.js, Nestjs, Serverless`
+> Programming Skills: C#, Javascript, Typescript, .Net, .Net Core, Node.js, Nestjs, Serverless
 
-`Cloud: AWS, Azure`
-
-
-`Tools: Docker, Redis, New Relic, Octopus, Bitbucket, Git`
+> Cloud: AWS, Azure
 
 
-`DevOps: CI/CD, Terraform, GitHub Actions, Azure DevOps`
+> Tools: Docker, Redis, New Relic, Octopus, Bitbucket, Git
+
+
+> DevOps: CI/CD, Terraform, GitHub Actions, Azure DevOps
 
 
 <br/>
