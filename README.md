@@ -40,7 +40,7 @@
 #### Trivial
 - 📫 Follow me on Twitter [@henry_megwai](https://twitter.com/henry_megwai)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@henrymegwai](www.linkedin.com/in/henry-megwai-public)
-- 🦸 Career Aim - Work for a cool Product company! 
+- 🦸 Career Aim - I am currently working for a cool Product company! 
 
 ---
 
