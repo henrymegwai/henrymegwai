@@ -34,8 +34,8 @@
 
 
 <br/>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=henrymegwai&count_private=true&show_icons=true&theme=onedark" alt="Amazon Lambda" style="vertical-align:top; margin:4px">
-  &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com?user=henrymegwai&theme=green&hide_border=true" alt="henry megwai github status" style="vertical-align:top; margin:4px"></p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=henrymegwai&count_private=true&show_icons=true&theme=onedark" alt="Amazon Lambda" >
+  &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com?user=henrymegwai&theme=green&hide_border=true" alt="henry megwai github status" ></p>
 
 #### Trivia
 - 📫 Follow me on Twitter [@henry_megwai](https://twitter.com/henry_megwai)
