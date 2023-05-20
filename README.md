@@ -92,7 +92,3 @@
   </a>
 </p>
 <br/>
-
-<p align="center">
-  <a href="#" alt="henry megwai's github stats"><img src="https://github-readme-stats.vercel.app/api?username=henrymegwai" /></a>
-</p>
