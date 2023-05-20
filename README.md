@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there, I'm Henry Megwai 👋</h1>
 
 <p align="center"> 
@@ -15,18 +16,26 @@
  </a>
 </p>
 
+`I’m a Senior Backend Engineer with a deep interest in solving real-world problems using technology.`
 
-> I’m a Senior Backend Engineer with a deep interest in solving real-world problems using technology.
->
-> Passionate about the design and development of highly scalable distributed solutions, with operational excellence, reliability, security, optimal performance, and cost-effectiveness.
->
-> A proficient problem-solver and focused learner, constantly applying the best software techniques in order to provide high-quality products
->
-> Programming: C#, Javascript, Typescript, .Net, .Net Core, Node.js, Nestjs, Serverless
-> Cloud: AWS, Azure
-> Tools: Docker, Redis, New Relic, Octopus, Bitbucket, Git
-> DevOps: CI/CD, Terraform, GitHub Actions, Azure DevOps
+`Passionate about the design and development of highly scalable distributed solutions, with operational excellence, reliability, security, optimal performance, and cost-effectiveness.`
 
+`A proficient problem-solver and focused learner, constantly applying the best software techniques in order to provide high-quality products.`
+
+`Programming Skills: C#, Javascript, Typescript, .Net, .Net Core, Node.js, Nestjs, Serverless`
+
+`Cloud: AWS, Azure`
+
+
+`Tools: Docker, Redis, New Relic, Octopus, Bitbucket, Git`
+
+
+`DevOps: CI/CD, Terraform, GitHub Actions, Azure DevOps`
+
+
+<br/>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=henrymegwai&count_private=true&show_icons=true&theme=onedark" alt="Amazon Lambda" style="vertical-align:top; margin:4px">
+  &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com?user=henrymegwai&theme=green&hide_border=true" alt="henry megwai github status" style="vertical-align:top; margin:4px"></p>
 
 #### Trivia
 - 📫 Follow me on Twitter [@henry_megwai](https://twitter.com/henry_megwai)
