@@ -37,7 +37,7 @@
 <p> <img src="https://github-readme-stats.vercel.app/api?username=henrymegwai&count_private=true&show_icons=true&theme=onedark" alt="Amazon Lambda" >
   &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com?user=henrymegwai&theme=green&hide_border=true" alt="henry megwai github status" ></p>
 
-#### Trivia
+#### Trivial
 - 📫 Follow me on Twitter [@henry_megwai](https://twitter.com/henry_megwai)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@henrymegwai](www.linkedin.com/in/henry-megwai-public)
 - 🦸 Career Aim - Work for a cool Product company! 
