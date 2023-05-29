@@ -24,7 +24,7 @@
 
 > Programming Skills: C#, Javascript, Typescript, .Net, .Net Core, Node.js, Nestjs, Serverless
 
-> Cloud: AWS, Azure
+> Cloud Technologies: AWS, Azure
 
 
 > Tools: Docker, Redis, New Relic, Octopus, Bitbucket, Git
