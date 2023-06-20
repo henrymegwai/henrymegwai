@@ -37,8 +37,8 @@
 <p> <img src="https://github-readme-stats.vercel.app/api?username=henrymegwai&count_private=true&show_icons=true&theme=onedark" alt="Amazon Lambda" >
   &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com?user=henrymegwai&theme=green&hide_border=true" alt="henry megwai github status" ></p>
   
- <br/>
-<p>  <a href="https://app.daily.dev/hmegwai"><img src="https://api.daily.dev/devcards/335f83b3775c4082a241deefd59b0e85.png?r=j07" width="400" alt="HENRY MEGWAI's Dev Card"/></a></p>
+<!-- <br/>
+<p>  <a href="https://app.daily.dev/hmegwai"><img src="https://api.daily.dev/devcards/335f83b3775c4082a241deefd59b0e85.png?r=j07" width="400" alt="HENRY MEGWAI's Dev Card"/></a></p> -->
   
 
 
