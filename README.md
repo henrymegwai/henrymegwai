@@ -22,9 +22,9 @@
 
 > A proficient problem-solver and focused learner, constantly applying the best software techniques in order to provide high-quality products.
 
-> Programming Skills: C#, Javascript, Typescript, .Net, .Net Core, Node.js, Nestjs, Serverless
+> Programming Skills: C#, .Net, .Net Core, Javascript, Typescript Node.js, Serverless
 
-> Cloud Technologies: AWS, Azure
+> Cloud Technologies: Azure, AWS
 
 
 > Tools: Docker, Redis, New Relic, Octopus, Bitbucket, Git
