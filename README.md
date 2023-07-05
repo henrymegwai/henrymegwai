@@ -98,6 +98,6 @@
 
 #### Trivial
 - 📫 Follow me on Twitter [@henry_megwai](https://twitter.com/henry_megwai)
-- 🦸 Endorse me / Leave a Recommendation on Linkedin [@henrymegwai](www.linkedin.com/in/henry-megwai-public)
-- 🦸 Career Aim - I am currently working for a cool Product company! 
+- 🦸 Endorse me / Leave a Recommendation on Linkedin <a href="www.linkedin.com/in/henry-megwai-public" target="_blank">[@henrymegwai_public]</a> 
+- 🦸 Career Aim - I am currently working for a cool product company! 
 
