@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi there, I'm Henry Megwai 👋</h1>
+
 <p align="center"> 
  <a href="https://twitter.com/henry_megwai" alt="henry megwai's twitter">
    <img src="https://img.shields.io/badge/-@henry_megwai-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
@@ -32,44 +33,31 @@
 > DevOps: CI/CD, Terraform, GitHub Actions, Azure DevOps
 
 
-<br/>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=henrymegwai&count_private=true&show_icons=true&theme=onedark" alt="Amazon Lambda" >
-  &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com?user=henrymegwai&theme=green&hide_border=true" alt="henry megwai github status" ></p>
-  
-<br/>
-<p>  <a href="https://app.daily.dev/hmegwai"><img src="https://api.daily.dev/devcards/335f83b3775c4082a241deefd59b0e85.png?r=j07" width="400" alt="HENRY MEGWAI's Dev Card"/></a></p>
-  
-
-
-#### Trivial
-- 📫 Follow me on Twitter [@henry_megwai](https://twitter.com/henry_megwai)
-- 🦸 Endorse me / Leave a Recommendation on Linkedin [@henrymegwai](www.linkedin.com/in/henry-megwai-public)
-- 🦸 Career Aim - I am currently working for a cool Product company! 
-
 ---
 
 <p align="center"> 
  <strong>
-  Professional skills
+  Tech Stach
   </strong>
 </p>
 
 <p align="center">
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>
+
   <a href="https://dotnet.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
- <a href="https://dotnet.microsoft.com/">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
+   <a href="https://dotnet.microsoft.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://hub.docker.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" height="60px alt="docker" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="https://dotnet.microsoft.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="60px alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
   <a href="">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" height="60px alt="typescript" style="vertical-align:top; margin:4px;">
   </a>  
-  <a href="https://hub.docker.com/">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
-  </a>
   <a href="https://azure.microsoft.com">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Azure" style="vertical-align:top; margin:4px">
   </a>
@@ -95,4 +83,21 @@
     <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-ar21.svg" alt="newrelic" style="vertical-align:top; margin:4px">
   </a>
 </p>
+
+
+---
+
+
+<p> <img src="https://github-readme-stats.vercel.app/api?username=henrymegwai&count_private=true&show_icons=true&theme=onedark" alt="Amazon Lambda" >
+  &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com?user=henrymegwai&theme=green&hide_border=true" alt="henry megwai github status" ></p>
+  
 <br/>
+<p>  <a href="https://app.daily.dev/hmegwai"><img src="https://api.daily.dev/devcards/335f83b3775c4082a241deefd59b0e85.png?r=j07" width="400" alt="HENRY MEGWAI's Dev Card"/></a></p>
+  
+---
+
+#### Trivial
+- 📫 Follow me on Twitter [@henry_megwai](https://twitter.com/henry_megwai)
+- 🦸 Endorse me / Leave a Recommendation on Linkedin [@henrymegwai](www.linkedin.com/in/henry-megwai-public)
+- 🦸 Career Aim - I am currently working for a cool Product company! 
+
