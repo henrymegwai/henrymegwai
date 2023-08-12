@@ -22,9 +22,9 @@
 
 > A proficient problem-solver and focused learner, constantly applying the best software techniques in order to provide high-quality products.
 
-> Programming Skills: C#, .Net, .Net Core, Javascript, Typescript Node.js, Serverless
+> Programming Skills: C#, .Net, .Net Core, Javascript, Typescript, Node.js, Serverless
 
-> Cloud Technologies: Azure, AWS
+> Cloud Technologies: Azure, AWS Cloud Services
 
 
 > Tools: Docker, Redis, New Relic, Octopus, Bitbucket, Git
@@ -37,7 +37,7 @@
 
 <p align="center"> 
  <strong>
-  Tech Stach
+  Tech Stack
   </strong>
 </p>
 
