@@ -20,7 +20,7 @@
 
 > Passionate about the design and development of highly scalable distributed solutions, with operational excellence, reliability, security, optimal performance, and cost-effectiveness.
 
-> A proficient problem-solver and focused learner, constantly applying the best software techniques with the aim to constantly deliver high-quality software products.
+> A proficient problem-solver and focused learner, constantly applying the best software techniques to constantly deliver high-quality software products.
 
 > Programming Skills: C#, .Net, .Net Core, Javascript, Typescript, Node.js, Serverless
 
