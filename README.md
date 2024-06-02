@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Henry Megwai 👋</h1>
+<h1 align="center">Hi there, I'm Henry 👋</h1>
 
 <p align="center"> 
  <a href="https://twitter.com/henry_megwai" alt="henry megwai's twitter">
