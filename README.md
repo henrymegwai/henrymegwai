@@ -20,17 +20,15 @@
 
 > Passionate about the design and development of highly scalable distributed solutions, with operational excellence, reliability, security, optimal performance, and cost-effectiveness.
 
-> A proficient problem-solver and focused learner, constantly applying the best software techniques to constantly deliver high-quality software products.
+> A proficient problem-solver and focused learner, constantly applying the best software techniques to deliver high-quality software products.
 
-> Programming Skills: C#, .Net, .Net Core, Javascript, Typescript, Node.js, Serverless.
+> Programming Skills: C#, .NET, .NET Core, JavaScript, Typescript, Node.js, Domain Driven Design, Event Driven Architecture, Design Patterns etc.
 
-> Cloud Technologies: Azure, AWS Cloud Services.
-
+> Cloud Technologies: Azure, or AWS Cloud Services.
 
 > Tools: Docker, Redis, New Relic, Octopus, Bitbucket, Git
 
-
-> DevOps: CI/CD, Terraform, GitHub Actions, Azure DevOps
+> DevOps: Azure Bicep/ARM Template, CI/CD, Terraform, GitHub Actions, Azure DevOps, Observability, and Monitoring
 
 
 ---
